@@ -5,7 +5,7 @@ function progression(w) {
   backprogress.style.backgroundColor = "red";
 }
 
-setTimeout(() => progression(25), 1000);
-setTimeout(() => progression(50), 1000);
-setTimeout(() => progression(75), 1000);
-setTimeout(() => progression(100), 1000);
+setTimeout(() => progression(25), 2500);
+setTimeout(() => progression(50), 5500);
+setTimeout(() => progression(75), 7500);
+setTimeout(() => progression(100), 10500);
